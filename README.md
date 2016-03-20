@@ -4,6 +4,6 @@ A really dumb AI that plays the "Is it closer to Hitler or French Toast?" game w
 
 ## Usage
 
-You must have `gensim` installed and must download the `text8` corpus into this directory. It can be found here: http://mattmahoney.net/dc/text8.zip
+You must have the Python library `gensim` installed and must download the `text8` corpus into this directory. It can be found here: http://mattmahoney.net/dc/text8.zip
 
 More corpus/not-hardcoded corpus support coming eventually maybe.
